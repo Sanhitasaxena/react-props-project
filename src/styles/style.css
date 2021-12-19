@@ -1,0 +1,64 @@
+body{
+    background-color: peachpuff;
+    margin: 0;
+    padding: 0;
+}
+
+/* stylling for header */
+#header #welcome{
+    background-color: peachpuff;
+    border-bottom: 5px solid brown;
+    border-radius: 10%;
+}
+
+#welcome{
+    margin-top: 10px;
+}
+
+#cover{
+    /* background-image: url("../images/bg.png"); */
+    /* background-size: cover;
+    background-
+    width: 100%; */
+}
+
+/* Stylling card component */
+#card #card-content{
+    height: 20em;
+    width: 18em;
+    /* background-color: red; */
+    border-radius: 10%;
+    border: none;
+    outline: none;
+    /* border-style: solid; */
+    /* border-color: maroon; */
+    box-shadow: 5px 10px brown;
+    -moz-box-shadow:    3px 3px 5px 6px brown;
+    -webkit-box-shadow: 3px 3px 5px 6px brown;
+    box-shadow:         3px 3px 5px 6px brown;
+    /* margin-top: 40px; */
+}
+
+#form input{
+    /* background-color: red; */
+    background: none;
+    border: none;
+    border-bottom: 2px solid rgb(100, 48, 48);
+    /* border-radius: 10px; */
+}
+
+#form label{
+    font-size: 1em;
+    color: rgb(83, 15, 38);
+    font-weight: bolder;
+}
+
+#form-content{
+    margin-top: 10px;
+}
+
+/* home stylling*/
+/* #cover-content{ */
+    /* display: flex; */
+    /* justify-content: center; */
+/* } */
